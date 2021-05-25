@@ -1,5 +1,6 @@
 # OdooProject
 	Before You begin you need to set up ubuntu envirement by checking Python and Wklhm..  version	and set up the enviroment and stuff thisz can take you sometime	and dont forget to set up the Reginx
+	PS: the directory f the folder should be /opt/odoo13
 
 								Install Odoo 13 on Ubuntu 16.04
 
