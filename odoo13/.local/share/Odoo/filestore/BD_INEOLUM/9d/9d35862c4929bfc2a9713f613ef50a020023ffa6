@@ -1,0 +1,12 @@
+// This file is meant to be edited automatically by the user. The variables it
+// contains should not be renamed otherwise it would break existing customers
+// customizations.
+
+$o-user-website-values: map-merge($o-user-website-values, o-map-omit((
+    'font-number': 5,
+    'headings-font-number': 4,
+    'navbar-font-number': 4,
+    'buttons-font-number': null,
+    'logo-height': 6.25rem,
+    // -- hook --
+)));
